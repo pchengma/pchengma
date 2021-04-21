@@ -1,5 +1,8 @@
-## My GitHub stats:
+# Hi there!
 
-![](https://github-readme-stats.vercel.app/api?username=pchengma&show_icons=true&theme=gotham&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pchengma&layout=compact&theme=gotham)
+<a href="https://github.com/pchengma">
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?theme=radical&username=pchengma&show_icons=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/pchengma">
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=pchengma&layout=compact" />
+</a>
