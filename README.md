@@ -1,5 +1,5 @@
 ### Hi there! 👋 This is Pengcheng Ma. You can also call me Robert!
-- 🔭 I’m a final year MPhil. student at ADS Lab, CUHK, working with [Professor Patrick P. C. LEE](http://www.cse.cuhk.edu.hk/~pclee/www/index.html).
+- 🔭 I’m a final-year MPhil. student at ADS Lab, CUHK, working with [Professor Patrick P. C. LEE](http://www.cse.cuhk.edu.hk/~pclee/www/index.html).
 - 🌱 I’m currently working on improving time and storage efficiency of fault tolerance components in storage systems.
 - 📫 How to reach me: pcma@cse.cuhk.edu.hk
 
