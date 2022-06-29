@@ -1,7 +1,9 @@
 ### Hi there! 👋 This is Pengcheng Ma. You can also call me Enoch!
-- 🔭 I’m a final-year MPhil. student at ADS Lab, CUHK, working with [Professor Patrick P. C. LEE](http://www.cse.cuhk.edu.hk/~pclee/www/index.html).
-- 🌱 I’m currently working on improving time and storage efficiency of fault tolerance components in storage systems.
-- 📫 How to reach me: pcma@cse.cuhk.edu.hk
+- 🔭 I am an incoming software engineer at Galois Lab, Huawei.
+- 🎓 I received my MPhil. degree at the Chinese University of Hong Kong, fortunately advised by [Professor Patrick P. C. LEE](http://www.cse.cuhk.edu.hk/~pclee/www/index.html).
+- 🌱 My research interest is using algorithms and system techniques to optimize resource-intensive components in distributed systems. 
+- 💻 I am also an open-source enthusiast. I am a [GSoC contributer](https://summerofcode.withgoogle.com/programs/2022/projects/YxBHSLin) of the [Apache EventMesh](https://github.com/apache/incubator-eventmesh) community.
+- 📫 How to reach me: pchengma@link.cuhk.edu.hk
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pchengma.pchengma)
 
