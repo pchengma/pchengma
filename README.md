@@ -2,7 +2,7 @@
 - 🔭 I am an incoming software engineer at Galois Lab, Huawei.
 - 🎓 I received my MPhil. degree at the Chinese University of Hong Kong, fortunately advised by [Professor Patrick P. C. LEE](http://www.cse.cuhk.edu.hk/~pclee/www/index.html).
 - 🌱 My research interest is using algorithms and system techniques to optimize resource-intensive components in distributed systems. 
-- 💻 I am also an open-source enthusiast. I am a [GSoC contributer](https://summerofcode.withgoogle.com/programs/2022/projects/YxBHSLin) of the [Apache EventMesh](https://github.com/apache/incubator-eventmesh) community.
+- 💻 I am also an open-source enthusiast. I am a [GSoC contributor](https://summerofcode.withgoogle.com/programs/2022/projects/YxBHSLin) to the [Apache EventMesh](https://github.com/apache/incubator-eventmesh) community.
 - 📫 How to reach me: pchengma@link.cuhk.edu.hk
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pchengma.pchengma)
