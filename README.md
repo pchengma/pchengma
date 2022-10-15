@@ -6,25 +6,12 @@
 - 📫 How to reach me: pchengma@link.cuhk.edu.hk
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pchengma.pchengma)
+  
+<div align="left">
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=pchengma&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="180"/></a>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pchengma&layout=compact&theme=radical" height="180"/></a>
+</div>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=pchengma&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pchengma&theme=radical">
-    </td>
-  </tr>
-</table>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pchengma&layout=compact&theme=radical">
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pchengma&theme=monokai&count_private=true&include_all_commits=true">
-    </td>
-  </tr>
-</table>
+<div align="left">
+    <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pchengma&theme=monokai&count_private=true&include_all_commits=true" height="200"/></a>
+</div>
