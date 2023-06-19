@@ -9,6 +9,6 @@
 
 
 <div align="left">
-    <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pchengma&theme=monokai&count_private=true&include_all_commits=true" height="160"/></a>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pchengma&layout=compact&theme=radical" height="160"/></a>
+    <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pchengma&theme=monokai&count_private=true&include_all_commits=true" height="120"/></a>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pchengma&layout=compact&theme=radical" height="120"/></a>
 </div>
