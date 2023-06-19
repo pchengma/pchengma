@@ -5,10 +5,8 @@
 - 💻 I am also an open-source enthusiast. I am a [GSoC contributor](https://summerofcode.withgoogle.com/programs/2022/projects/YxBHSLin) and [Apache EventMesh](https://github.com/apache/incubator-eventmesh) Committer.
 - 📫 How to reach me: pchengma@apache.org
 
-![](https://visitor-badge.glitch.me/badge?page_id=pchengma.pchengma)
-
 
 <div align="left">
-    <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pchengma&theme=monokai&count_private=true&include_all_commits=true" height="120"/></a>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pchengma&layout=compact&theme=radical" height="120"/></a>
+    <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pchengma&theme=monokai&count_private=true&include_all_commits=true" height="140"/></a>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pchengma&layout=compact&theme=radical" height="140"/></a>
 </div>
